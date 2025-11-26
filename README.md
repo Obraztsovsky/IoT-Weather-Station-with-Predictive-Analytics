@@ -50,3 +50,11 @@ const unsigned long HISTORY_DURATION = 6 * 60 * 60 * 1000; // Хранение �
 ![Интерфейс](graphics_Interface.png)
 ### История данных
 ![Интерфейс](history_Interface.png)
+
+## Автор
+
+**Баранов Георгий**
+
+- 📧 Email: obraztsovsky@yandex.ru
+- 🐙 GitHub: [Obraztsovsky](https://github.com/Obraztsovsky)
+- 🌐 Телеграм: [@obraztsovsky](http://t.me/obraztsovsky)
