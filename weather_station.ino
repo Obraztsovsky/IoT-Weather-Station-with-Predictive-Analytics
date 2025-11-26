@@ -7,9 +7,9 @@
 
 GyverBME280 bme;
 
-// Настройки Wi-Fi
-const char* ssid = "xr5";
-const char* password = "20052005";
+// Настройки Wi-Fi (замените на свои)
+const char* ssid = "YOUR_WIFI_SSID";         // Имя вашей Wi-Fi сети
+const char* password = "YOUR_WIFI_PASSWORD"; // Пароль от вашей Wi-Fi сети
 
 WebServer server(80);
 
