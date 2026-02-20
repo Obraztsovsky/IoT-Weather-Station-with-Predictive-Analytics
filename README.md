@@ -56,6 +56,5 @@ const unsigned long HISTORY_DURATION = 6 * 60 * 60 * 1000; // Хранение �
 
 **Баранов Георгий**
 
-- 📧 Email: obraztsovsky@yandex.ru
-- 🐙 GitHub: [Obraztsovsky](https://github.com/Obraztsovsky)
-- 🌐 Телеграм: [@obraztsovsky](http://t.me/obraztsovsky)
+- Email: obraztsovsky@yandex.ru
+- Телеграм: [@obraztsovsky](http://t.me/obraztsovsky)
